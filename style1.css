@@ -1,0 +1,143 @@
+body {
+  font-family: Arial;
+  font-size:25px;
+  width: 100%;
+  margin: 0; 
+}
+img { 
+  width: 50%; 
+  margin:0; 
+  padding: 0px;
+  margin-right:auto;
+  margin-left: auto;
+  display: block;
+ 
+}
+header {
+  background: black; 
+  color:white;
+  padding: 30px 5px 0 30px;
+} 
+nav ul { 
+  color:white;
+  margin: 0;
+  padding: 0 0 15px 0; 
+  display:inline;
+  text-align:center;
+  
+
+}
+nav ul li {
+  display:inline-flex;
+  list-style-type: none;
+  padding: 20px 25px; 
+  margin-right: 40px;
+  margin-left:60px;
+}
+nav ul li a {
+  color:white;
+}
+h1 { 
+   font-family:sen-serif;
+   font-weight: 10px;
+   text-align:center;
+ }
+
+.container3 {
+  background:greenyellow;
+  padding: 5%;
+}
+.top-Discussion {
+  display:flex; 
+  padding: 10px; 
+}
+.Topic {
+  background-color:white;
+  margin: 2%; 
+  flex:0.2%;
+  padding:2%
+
+}
+.Posts{
+  background-color:white; 
+  margin: 2%;
+  text-align:center;
+  flex:10%;
+  padding:2%
+}
+.LReplies { 
+  background-color:white;
+  margin: 2%; 
+  flex:0.2%;
+  padding:2%
+
+}
+.Country {
+   background-color:white;
+  margin: 2%; 
+  flex:0.2%;
+  padding:2%
+}
+.Discussion-Body {
+  display:flex; 
+    padding: 10px;
+}
+.container4 {
+  padding:5%;
+  background:white; 
+} 
+
+}
+.container5 {
+  display:flex;
+  background:white:
+  padding:0;
+}
+
+
+.sub {
+  background:lightgray;
+  color: black;
+  text-align: left; 
+  flex:0.5%;
+  margin:2%; 
+  padding:5%;
+}
+.discuss {   
+  background:lightgray;
+  color: black;
+  text-align: left; 
+  flex:10%; 
+  margin:2%;
+  padding:5%; }
+
+.replies{
+  background:lightgray;
+  color: black;
+  text-align: left; 
+  flex:0.5%; 
+  margin:2%;
+  padding:5%;
+}
+.Location{
+  background:lightgray;
+  color: black;
+  text-align: left; 
+  flex:0.5%; 
+  margin:2%;
+  padding:5%;
+}
+
+
+
+
+
+
+footer {
+  background: black;
+  color:white; 
+  font-family:sans-serif;
+  line-height:3.0; 
+  text-align:center;
+  padding: 10%;
+}
